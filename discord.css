@@ -70,12 +70,7 @@ div[role="button"][aria-label="Mark Unread"],
 
 /* Boost goal */
 .container__0d0f9,
-/* todo: hide boost button in server */
-
-/* Events */
-#channels li[data-list-item-id^=channels___upcoming-events],
-#channels li[data-list-item-id^=channels___ongoing-events],
-.channelNotice__8f7b2,
+[aria-label="Server Boosts"], /* todo doesnt work */
 
 /* Create invite and edit channel buttons */
 .actionIcon_c69b6d, /* Use rightclick */
