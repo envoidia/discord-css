@@ -9,6 +9,7 @@ Contributions are welcomed
 Todo:
 - Replace uses of aria-label with language-agnostic counterparts where possible
 - Hide top bar
+- Fix the Discover tab still having popup text when hovered despite being invisible
 - Settings:
   - Hide Payment Settings header
   - Hide Server Boost tab
