@@ -87,6 +87,10 @@ div[role="button"][aria-label="Mark Unread"],
 /* Wave button */
 .containerExpanded__7ff28,
 
+/* Discover */
+/* todo fix the discover text still appearing when you mouse over it */
+.discoveryIcon_ef3116,
+
 /* Commonly used divider to create whitespace around elements this deletes */
 div[style="height: 12px;"]
 
