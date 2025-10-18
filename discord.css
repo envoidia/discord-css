@@ -49,6 +49,9 @@ button[aria-label="Apps"],
 /* Shop and store */
 a[href="/store"], a[href="/shop"],
 
+/* Quests */
+a[href="/quest-home"],
+
 /* Mark unread button */
 div[role="button"][aria-label="Mark Unread"],
 #message-mark-unread,
