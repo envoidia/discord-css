@@ -15,5 +15,5 @@
 
 .selectedChannel_c69b6d, .button_a22cb0, .focused_c1e9c4, .selected_bf202d, .selected_aa8da2, .unread__2ea32, .botTag__82f07 {
     border-radius: 6px;
-    background: linear-gradient(var(--dir), var(--c1), var(--c2));
+    background: linear-gradient(var(--dir), var(--c1), var(--c2)) !important;
 }
