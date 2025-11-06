@@ -7,6 +7,6 @@
  * @website https://envoidia.neocities.org
  */
 
-[data-text="envoidia"], [aria-label="envoidia (direct message)"] {
-    color: #e9aee4;
+[data-text="envoidia"], [data-text="@envoidia"], [aria-label="envoidia (direct message)"] {
+    color: #e9aee4 !important;
 }
