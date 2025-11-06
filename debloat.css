@@ -100,22 +100,16 @@ div[role="button"][aria-label="Mark Unread"],
 /* Discover */
 .discoveryIcon_ef3116,
 
+/* Join a server (just paste the link) */
+.tutorialContainer__650eb,
+
 /* Commonly used divider to create whitespace around elements this deletes */
 div[style="height: 12px;"]
 
 {
-   display: none !important;
+  display: none;
 }
 
 .sansAttachButton__74017 {
-    padding: 0px 0px 0px 10px !important;
-}
-
-/* Fix bottom left mini profile size */
-.guilds_c48ade {
-  --custom-app-panels-height: 0px !important;
-}
-.panels_c48ade {
-  left: var(--custom-guild-list-width) !important;
-  width: calc(100% - var(--custom-guild-list-width)) !important;
+  padding: 0px 0px 0px 10px;
 }
