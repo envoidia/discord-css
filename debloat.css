@@ -1,3 +1,12 @@
+/**
+ * @name Debloat
+ * @author envoidia
+ * @version 05/11/25
+ * @description Removes bloat from Discord
+ * @source https://github.com/envoidia/discord-css
+ * @website https://envoidia.neocities.org
+ */
+
 /* Message bar buttons */
 .buttons__74017, /* Gift button */
 button[aria-label="Boost this server"],
@@ -32,7 +41,6 @@ button[aria-label="Apps"],
 .tryItOutSection__9d295,
 
 /* Payment settings */
-/* todo: find a way to hide Server Boost tab and Payment settings header */
 .premiumTab__581ea,
 [aria-label="Subscriptions"],
 [aria-label="Gift Inventory"],
@@ -79,7 +87,6 @@ div[role="button"][aria-label="Mark Unread"],
 
 /* Boost goal */
 .container__0d0f9,
-[aria-label="Server Boosts"], /* todo doesnt work */
 
 /* Create invite and edit channel buttons */
 .actionIcon_c69b6d, /* Use rightclick */
@@ -91,7 +98,6 @@ div[role="button"][aria-label="Mark Unread"],
 .containerExpanded__7ff28,
 
 /* Discover */
-/* todo fix the discover text still appearing when you mouse over it */
 .discoveryIcon_ef3116,
 
 /* Commonly used divider to create whitespace around elements this deletes */
@@ -101,8 +107,7 @@ div[style="height: 12px;"]
    display: none !important;
 }
 
-.sansAttachButton__74017
-{
+.sansAttachButton__74017 {
     padding: 0px 0px 0px 10px !important;
 }
 

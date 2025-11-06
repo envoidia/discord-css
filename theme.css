@@ -7,6 +7,9 @@
  * @website https://clearvision.github.io
  * @invite dHaSxn3
  */
+
+/* modified by envoidia */
+
 /* IMPORT CSS */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
 @import url("https://clearvision.github.io/ClearVision-v7/vencord.css");
@@ -134,24 +137,4 @@
 
     --rs-avatar-shape: 15%; /* 50% for round - 0% for square */
     --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
-
-    /* Gradients */
-    --gradient-color1: var(--main-color); /* primary color [default: var(--main-color) */
-    --gradient-color2: #5564DF; /* secondary color [default: var(--hover-color) */
-    --gradient-direction: 130deg; /* angle of gradient [default: 130deg] */
-}
-
-/* Gradients
- todo: selected DMs, scrollbars
- fix some minor peeking from below elements, fix missing animations */
-
-.selectedChannel_c69b6d, .button_a22cb0, .focused_c1e9c4, .selected_bf202d, .selected_aa8da2, .unread__2ea32 {
-    border-radius: 6px !important;
-    background: linear-gradient(var(--gradient-direction), var(--gradient-color1), var(--gradient-color2)) !important;
-}
-
-/* Change color of specific user's names */
-
-[data-text="envoidia"], [aria-label="envoidia (direct message)"] {
-    color: #e9aee4 !important;
 }

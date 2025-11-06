@@ -1,8 +1,8 @@
-Custom CSS to make Discord better. Contributions welcomed
+Custom CSS to make Discord better. Can be used with the website or any modded client (I recommend [Vesktop](https://github.com/Vencord/Vesktop)). Contributions welcomed
 
-# envoidia_debloat.css
+# debloat.css
 
-CSS that removes bloat and ads from Discord. Can be used with the website or any modded client (I recommend [Vesktop](https://github.com/Vencord/Vesktop))
+Removes bloat and ads from Discord
 
 Sections are commented, so you can easily edit anything you don't like
 
@@ -18,14 +18,28 @@ Todo:
   - Server:
     - Hide Server Boost tab
   
-# envoidia_clearvision_theme.css
+# gradients.css
 
-My own modified version of [ClearVision](https://github.com/ClearVision/ClearVision-v7/blob/master/ClearVision-v7-Vencord.css), with gradients and stuff
+Adds gradients to several elements
 
 Todo:
-  - Change the name colors of specific users by user ID instead of username, and make it work on profiles and typing indicators
   - Gradients in more places
     - Selected DMs
     - Scrollbars
-  - Fix some minor missing animations with gradients
+    - Figure out if gradient text is possible
+  - Fix some minor missing animations
   - Fix some minor artifacts on the edges of gradients
+
+# names.css
+
+Changes the style of specific user's names
+
+Add all your friends with their favorite colors, or give them special backgrounds and other edits
+
+Todo:
+  - Figure out if gradient text is possible
+  - Target user ID instead of username, and make it work on profiles and typing indicators
+
+# theme.css
+
+My own modified version of [ClearVision](https://github.com/ClearVision/ClearVision-v7/blob/master/ClearVision-v7-Vencord.css)
