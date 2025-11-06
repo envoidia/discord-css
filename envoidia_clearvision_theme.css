@@ -145,7 +145,7 @@
  todo: selected DMs, scrollbars
  fix some minor peeking from below elements, fix missing animations */
 
-.selectedChannel_c69b6d, .button_a22cb0, .focused_c1e9c4, .selected_bf202d, .selected_aa8da2 {
+.selectedChannel_c69b6d, .button_a22cb0, .focused_c1e9c4, .selected_bf202d, .selected_aa8da2, .unread__2ea32 {
     border-radius: 6px !important;
     background: linear-gradient(var(--gradient-direction), var(--gradient-color1), var(--gradient-color2)) !important;
 }
