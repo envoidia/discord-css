@@ -1,7 +1,7 @@
 /**
  * @name Debloat
  * @author envoidia
- * @version 05/11/25
+ * @version 13/11/25
  * @description Removes bloat from Discord
  * @source https://github.com/envoidia/discord-css
  * @website https://envoidia.neocities.org
@@ -12,7 +12,6 @@
 button[aria-label="Boost this server"],
 .attachButton__0923f,
 .attachWrapper__0923f,
-.uploadInput_f298d4,
 .expression-picker-chat-input-button, /* Gif: Ctrl + G; Emoji: Ctrl + E; Sticker: Ctrl + S */
 button[aria-label="Apps"],
 
