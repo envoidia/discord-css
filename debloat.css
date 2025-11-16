@@ -1,7 +1,7 @@
 /**
  * @name Debloat
  * @author envoidia
- * @version 13/11/25
+ * @version 15/11/25
  * @description Removes bloat from Discord
  * @source https://github.com/envoidia/discord-css
  * @website https://envoidia.neocities.org
@@ -78,8 +78,8 @@ div[role="button"][aria-label="Mark Unread"],
 [aria-label="Show Member List"], /* Use Ctrl+U */
 [aria-label="Add Friends to DM"], /* Use + button at top of DMs */
 [aria-label="Start Video Call"],
-[role="button"][aria-label="Notification Settings"], /* Just right click channel */
-.clickable_c99c29, /* Inbox, use Ctrl+I if you actually want this for some reason */
+[role="button"][aria-label="Notification Settings"], /* Right-click channel */
+.clickable_c99c29, /* Inbox, use Ctrl+I */
 
 /* Find or start a conversation bar */
 .searchBar_e6b769, /* Use Ctrl+K */
@@ -88,7 +88,7 @@ div[role="button"][aria-label="Mark Unread"],
 .container__0d0f9,
 
 /* Create invite and edit channel buttons */
-.actionIcon_c69b6d, /* Use rightclick */
+.actionIcon_c69b6d, /* Use right-click */
 
 /* Active now panel */
 .nowPlayingColumn_f5023f,
@@ -106,9 +106,9 @@ div[role="button"][aria-label="Mark Unread"],
 div[style="height: 12px;"]
 
 {
-  display: none;
+   display: none;
 }
 
 .sansAttachButton__74017 {
-  padding: 0px 0px 0px 10px;
+    padding: 0px 0px 0px 10px;
 }
