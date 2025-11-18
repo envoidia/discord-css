@@ -1,7 +1,7 @@
 /**
  * @name Gradients
  * @author envoidia
- * @version 15/11/25
+ * @version 17/11/25
  * @description Adds gradients to Discord
  * @source https://github.com/envoidia/discord-css
  * @website https://envoidia.neocities.org
@@ -13,7 +13,7 @@
     --dir: 130deg;
 }
 
-.selectedChannel_c69b6d, .button_a22cb0, .focused_c1e9c4, .selected_bf202d, .selected_aa8da2, .unread__2ea32, .botTag__82f07, .newMessagesBar__0f481, .wrapper_f61d60, .unreadBar__629e4, .jumpButton_e8b59c, .searchToken_bd8186, .channelHeader__35a7e {
+.selectedChannel_c69b6d, .button_a22cb0, .focused_c1e9c4, .selected_bf202d, .selected_aa8da2, .unread__2ea32, .botTag__82f07, .newMessagesBar__0f481, .wrapper_f61d60, .unreadBar__629e4, .jumpButton_e8b59c, .searchToken_bd8186, .channelHeader__35a7e, [aria-selected="true"] {
     border-radius: 6px;
     background: linear-gradient(var(--dir), var(--c1), var(--c2)) !important;
 }
