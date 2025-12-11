@@ -1,0 +1,5 @@
+# IDE-specific files
+.vs/
+.vscode/
+.idea/
+.zed/
