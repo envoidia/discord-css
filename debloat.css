@@ -1,7 +1,7 @@
 /**
  * @name Debloat
  * @author envoidia
- * @version 16/12/25
+ * @version 17/12/25
  * @description Removes bloat from Discord
  * @source https://github.com/envoidia/discord-css
  * @website https://envoidia.neocities.org
@@ -37,6 +37,9 @@ a[href="/store"], a[href="/shop"],
 /* Quests */
 a[href="/quest-home"],
 
+/* Checkpoint */
+._85643a485899904b-button,
+
 /* Mark unread button */
 div[role="button"][aria-label="Mark Unread"],
 #message-mark-unread,
@@ -60,7 +63,7 @@ div[role="button"][aria-label="Mark Unread"],
 .clickable_c99c29, /* Inbox, use Ctrl+I */
 
 /* Find or start a conversation bar */
-.searchBar_e6b769, /* Use Ctrl+K */
+.e6b7699ce8339e1c-searchBar, /* Use Ctrl+K */
 
 /* Boost goal */
 .container__0d0f9,
@@ -81,5 +84,5 @@ div[role="button"][aria-label="Mark Unread"],
 div[style="height: 12px;"]
 
 {
-   display: none;
+   display: none !important;
 }
