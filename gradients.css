@@ -17,7 +17,7 @@
 .botTag__82f07, .c1e9c47c23f12ca3-focused, .newMessagesBar__0f481, .wrapper_f61d60, .unreadBar__629e4,
 .jumpButton_e8b59c, .searchToken_bd8186, .channelHeader__35a7e, .c69b6db0641110f6-selectedChannel,
 ._0f481cbbd7530492-newMessagesBar, .a21cb0c66246f5d3-button, .a22cb0c66246f5d3-button, .caf372efc4d47562-active,
-.mention, .c19a557985eb7793-botTag, [aria-selected="true"] {
+.mention, .channelMention, .c19a557985eb7793-botTag, [aria-selected="true"] {
     border-radius: 6px;
     background: linear-gradient(var(--dir), var(--c1), var(--c2)) !important;
 }
