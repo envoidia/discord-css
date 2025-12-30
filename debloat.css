@@ -1,7 +1,7 @@
 /**
  * @name Debloat
  * @author envoidia
- * @version 17/12/25
+ * @version 29/12/25
  * @description Removes bloat from Discord
  * @source https://github.com/envoidia/discord-css
  * @website https://envoidia.neocities.org
@@ -25,6 +25,9 @@ button[aria-label="Boost this server"],
 [aria-label="Payment Settings"],
 ._8279f38edc620354-container,
 ._65c15724a894a2e0-premiumFeatureBorder,
+
+/* boost goal */
+._0d0f9ddd12a3ace3-container,
 
 /* Quest ad popup */
 .questProgressWrapper__1d950,
@@ -70,6 +73,7 @@ div[role="button"][aria-label="Mark Unread"],
 
 /* Create invite and edit channel buttons */
 .c69b6db0641110f6-actionIcon, /* Use right-click */
+.f37cb1984c371ee5-inviteButton,
 
 /* Active now panel */
 .nowPlayingColumn_f5023f,
