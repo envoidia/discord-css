@@ -1,7 +1,7 @@
 /**
  * @name Debloat
  * @author envoidia
- * @version 29/12/25
+ * @version 18/01/26
  * @description Removes bloat from Discord
  * @source https://github.com/envoidia/discord-css
  * @website https://envoidia.neocities.org
@@ -25,6 +25,7 @@ button[aria-label="Boost this server"],
 [aria-label="Payment Settings"],
 ._8279f38edc620354-container,
 ._65c15724a894a2e0-premiumFeatureBorder,
+._0b69f200eb3bf411-upsellContainer,
 
 /* boost goal */
 ._0d0f9ddd12a3ace3-container,
@@ -33,6 +34,9 @@ button[aria-label="Boost this server"],
 .questProgressWrapper__1d950,
 .questAcceptedContent__636a2,
 .wrapper__0d616,
+
+/* Writer longer messages with nitro! */
+._795fb60671d128c1-upsell,
 
 /* Shop and store */
 a[href="/store"], a[href="/shop"],
