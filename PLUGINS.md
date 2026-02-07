@@ -10,6 +10,7 @@
 - WebKeybinds
 - WebScreenShareFixes
 - YoutubeAdblock
+- FixYoutubeEmbeds
 
 ### Mobile: Aluicord
 - CopyInsteadOfShareImages

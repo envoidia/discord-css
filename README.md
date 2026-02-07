@@ -1,5 +1,3 @@
-# Currently partially broken, will be fixed soon
-
 Custom CSS to make Discord better. Can be used with the website or any modded client (I recommend [Vesktop](https://github.com/Vencord/Vesktop)). Contributions welcomed
 
 # debloat.css

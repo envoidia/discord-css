@@ -1,7 +1,7 @@
 /**
  * @name Debloat
  * @author envoidia
- * @version 18/01/26
+ * @version 07/02/26
  * @description Removes bloat from Discord
  * @source https://github.com/envoidia/discord-css
  * @website https://envoidia.neocities.org
@@ -9,8 +9,9 @@
 
 /* Message bar buttons */
 button[aria-label="Boost this server"],
-._0923f156a0410684-attachWrapper,
-._740174f3d6a2c8fe-buttons,
+.attachWrapper__0923f,
+.button__74017,
+.button_e6e74f,
 
 /* Channels & Roles / Browse Channels button */
 #channels li[role="button"],
