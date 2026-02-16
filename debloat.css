@@ -1,7 +1,7 @@
 /**
  * @name Debloat
  * @author envoidia
- * @version 07/02/26
+ * @version 16/02/26
  * @description Removes bloat from Discord
  * @source https://github.com/envoidia/discord-css
  * @website https://envoidia.neocities.org
@@ -77,8 +77,7 @@ div[role="button"][aria-label="Mark Unread"],
 .container__0d0f9,
 
 /* Create invite and edit channel buttons */
-.c69b6db0641110f6-actionIcon, /* Use right-click */
-.f37cb1984c371ee5-inviteButton,
+.actionIcon_c69b6d, /* Use right-click */
 
 /* Active now panel */
 .nowPlayingColumn_f5023f,
